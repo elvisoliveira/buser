@@ -1,0 +1,19 @@
+{
+    "name": "elvisoliveira/buser",
+    "type": "project",
+    "require": {
+        "pear/http_request2": "^2.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elvisoliveira\\Buser\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elvis Oliveira",
+            "email": "elvis.olv@gmail.com"
+        }
+    ]
+}
